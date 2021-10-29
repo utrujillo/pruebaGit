@@ -5,4 +5,4 @@ Sistema para la toma de decisiones
 M.S.C. Uziel Trujillo Colon
 
 #Alumnos
-Marco Antonio Mojica Martinez
+M20320011 Marco Antonio Mojica Martinez 
