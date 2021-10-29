@@ -5,4 +5,4 @@ Sistema para la toma de decisiones
 M.S.C. Uziel Trujillo Colon
 
 # Alumnos
-Cirilo Tino Salgado - M20320018
+M20320018 Cirilo Tino Salgado
