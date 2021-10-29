@@ -4,5 +4,7 @@ Sistema para la toma de decisiones
 # Profesor
 M.S.C. Uziel Trujillo Colon
 
-#Alumnos
+# Alumnos
+M20320002 Jacquelin Aguirre Radilla
+M20320018 Cirilo Tino Salgado
 M20320011 Marco Antonio Mojica Martinez 
