@@ -5,4 +5,4 @@ Sistema para la toma de decisiones
 M.S.C. Uziel Trujillo Colon
 
 # Alumnos
-20320017 Eduardo Rodriguez Rayo
+M20320017 Eduardo Rodriguez Rayo
